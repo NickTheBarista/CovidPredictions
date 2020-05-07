@@ -1,2 +1,2 @@
-# CovidkaggleSolution
-My Covid Kaggle Solution
+# Covid Work
+My Covid Work
